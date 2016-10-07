@@ -18,5 +18,13 @@
     <ClCompile Include="Study_01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Study_02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="showintor.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -147,6 +147,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Study_01.c" />
+    <ClCompile Include="Study_02.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="showintor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
